@@ -1,0 +1,51 @@
+html {
+    font-family: 'Kumbh Sans', sans-serif;
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+    background-color: #abd2faff;
+    background-color: #3d518cff;
+    color: white;
+}
+
+h1 {
+    font-size: 28pt;
+}
+
+h2 {
+    font-size: 14pt;
+}
+
+.main {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.social {
+    margin-top: 2rem;
+}
+
+.cv {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.icon {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.contact {
+    margin-top: 5%;
+}
+
+.contact .row {
+    margin-top: 5px;
+}
